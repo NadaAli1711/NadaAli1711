@@ -1,1 +1,1 @@
-![snake gif](https://github.com/NadaAli1711/NadaAli1711/blob/output/github-contribution-grid-snake.gif)
+![GitHub Cyber Snake](https://raw.githubusercontent.com/NadaAli1711/NadaAli1711/output/github-contribution-grid-snake.svg)
