@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B536FF&width=435&lines=Hello+World!+I'm+Nada+Ali+%F0%9F%91%8B%E2%9C%A8)](https://git.io/typing-svg) <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
-<br> 
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=NadaAli1711&style=flat&color=b57cff&label=PROFILE+VIEWS) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-ali-6985273b7/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NadaAli1711) 
@@ -45,11 +46,12 @@ const myProfile = {
 }
 ```
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently exploring **Advanced Software Architecture & Clean Coding Patterns**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Passionate about **leading tech teams and managing project milestones efficiently**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Flutter, BLoC/Cubit, App Performance Optimization, or Movies**. <br>
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **Deliver Native-Like Experiences:** Crafting high-performance cross-platform apps with pixel-perfect UI. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20" /><br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **Write Scalable & Maintainable Code:** Transforming requirements into clean, structured software architecture.<br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="15" />&nbsp;&nbsp;&nbsp;&nbsp; **Bridge Frontend with Backend:** Connecting sleek user interfaces with robust backend and cloud services.<br>
+* <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="18" />&nbsp;&nbsp;&nbsp;&nbsp; **Lead & Coordinate Tech Teams:** Driving project success through efficient task management and leadership.<br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; **Let's Connect & Collaborate:** Reach out for discussions on Flutter, state management, or architecture. 
 
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
 <a  href="https://github.com/SP-XD">
