@@ -3,38 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B536FF&width=435&lines=Hello+World!+I'm+Nada+Ali+%F0%9F%91%8B%E2%9C%A8)](https://git.io/typing-svg) <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
 <br> 
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=NadaAli1711&style=flat&color=b57cff&label=PROFILE+VIEWS) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-ali-6985273b7/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NadaAli1711) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nadaali2220222@gmail.com)
 </div>
-<div align="center">
-  <table>
-    <tr>
-      <!-- كارت الزيارات متناسق مع الموف الفاتح -->
-      <td valign="center">
-        <img src="https://komarev.com/ghpvc/?username=NadaAli1711&style=flat&color=b57cff&label=PROFILE+VIEWS" alt="Profile Views" />
-      </td>
-      <!-- زر لينكد إن المربع -->
-      <td valign="center">
-        <a href="https://www.linkedin.com/in/nada-ali-6985273b7/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-241b2f?style=for-the-badge&logo=linkedin&logoColor=b57cff" alt="LinkedIn" />
-        </a>
-      </td>
-      <!-- زر جيت هاب المربع مع إصلاح الأيقونة -->
-      <td valign="center">
-        <a href="https://github.com/NadaAli1711" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-241b2f?style=for-the-badge&logo=github&logoColor=b57cff" alt="GitHub" />
-        </a>
-      </td>
-      <!-- زر جي ميل المربع -->
-      <td valign="center">
-        <a href="mailto:nadaali2220222@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-241b2f?style=for-the-badge&logo=gmail&logoColor=b57cff" alt="Gmail" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+  
 
 <hr></hr>
 
