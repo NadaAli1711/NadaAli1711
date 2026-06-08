@@ -73,7 +73,7 @@ const myProfile = {
 }
 ```
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **Deliver Native-Like Experiences:** Crafting high-performance cross-platform apps with pixel-perfect UI. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20" /><br>
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **Deliver Native-Like Experiences:** Crafting high-performance cross-platform apps with pixel-perfect UI. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="150" /><br>
 * <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **Write Scalable & Maintainable Code:** Transforming requirements into clean, structured software architecture.<br>
 * <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="15" />&nbsp;&nbsp;&nbsp;&nbsp; **Bridge Frontend with Backend:** Connecting sleek user interfaces with robust backend and cloud services.<br>
 * <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="18" />&nbsp;&nbsp;&nbsp;&nbsp; **Lead & Coordinate Tech Teams:** Driving project success through efficient task management and leadership.<br>
