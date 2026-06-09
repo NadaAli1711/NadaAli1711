@@ -5,7 +5,7 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NadaAli1711&style=flat&color=b57cff&label=PROFILE+VIEWS) 
-[![LinkedIn](https://www.linkedin.com/in/nada1711/?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-ali-6985273b7/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nada-ali-6985273b7/](https://www.linkedin.com/in/nada1711/)) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NadaAli1711) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nadaali2220222@gmail.com)
 </div>
