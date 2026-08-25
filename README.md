@@ -83,11 +83,9 @@ const myProfile = {
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NadaAli1711&theme=aura)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NadaAli1711&theme=aura&hide_border=true&card_height=200)](https://git.io/streak-stats)
-</a>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NadaAli1711&theme=aura)
+![](./profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](./profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NadaAli1711&theme=nord&hide_border=true&card_height=200)](https://git.io/streak-stats)
 
 <hr></hr>
 </div>
