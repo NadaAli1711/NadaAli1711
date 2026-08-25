@@ -84,7 +84,7 @@ const myProfile = {
 <a  href="https://github.com/SP-XD">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NadaAli1711&theme=aura)
-[![GitHub Streak](https://streak-stats.demolab.com?user=NadaAli1711&theme=aura&hide_border=true&card_height=200)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NadaAli1711&theme=aura&hide_border=true&card_height=200" alt="GitHub Streak" /></a>
 </a>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NadaAli1711&theme=aura)
